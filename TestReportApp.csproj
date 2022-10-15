@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img\metro-loading-image-13.2.19.1004.gif" />
-    <Content Include="index.html">
+    <Content Include="Html5ReportViewer.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Properties\Default.rd.xml" />
